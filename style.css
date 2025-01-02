@@ -102,7 +102,7 @@ p {
 .hero {
     position: relative;
     height: 60vh;
-    background: url('https://github.com/norlynpiquero/vanorlyn/blob/main/high-angle-woman-working-as-freelancer.jpg') no-repeat center center/cover;
+    background: url('high-angle-woman-working-as-freelancer.jpg') no-repeat center center/cover;
     background-attachment: fixed; /* Parallax effect */
     transition: background-position 0.2s ease-out;
 }
