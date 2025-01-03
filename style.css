@@ -102,7 +102,7 @@ p {
 .hero {
     position: relative;
     height: 60vh;
-    background: url('bg-img.jpg') no-repeat center center/cover;
+    background: url('/blob/main/hero-img.jpg') no-repeat center center/cover;
     background-attachment: fixed; /* Parallax effect */
     transition: background-position 0.2s ease-out;
 }
