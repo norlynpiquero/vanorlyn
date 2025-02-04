@@ -223,7 +223,7 @@ ul {
 ul li {
     display: flex;
     justify-content: flex-start;
-    align-items: center;
+    align-items: left;
     margin-bottom: 8px;
     font-size: 1rem;
 }
