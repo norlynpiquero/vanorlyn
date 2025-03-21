@@ -22,7 +22,7 @@ body {
   font-style: normal;
 }
 
-body p, ul {
+body p, ul, nav a, .resume-btn, .btn {
     font-family: "League Spartan", sans-serif;
 }
 
