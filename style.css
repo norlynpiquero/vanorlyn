@@ -22,7 +22,7 @@ body {
   font-style: normal;
 }
 
-body p {
+body p, ul li {
     font-family: "League Spartan", sans-serif;
 }
 
