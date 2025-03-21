@@ -218,7 +218,7 @@ p {
 ul {
     list-style: none;
     padding: 0;
-    text-align: center !important;
+    text-align: left;
 }
 
 ul li {
